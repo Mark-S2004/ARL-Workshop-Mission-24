@@ -1,0 +1,5 @@
+﻿  Kinematic Bicycle Model.cpp
+C:\Users\miker\Desktop\ARL Workshop\Kinematic Bicycle Model\Kinematic Bicycle Model.cpp(14,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\miker\Desktop\ARL Workshop\Kinematic Bicycle Model\Kinematic Bicycle Model.cpp(32,55): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\miker\Desktop\ARL Workshop\Kinematic Bicycle Model\Kinematic Bicycle Model.cpp(44): warning C4172: returning address of local variable or temporary: outputs
+  Kinematic Bicycle Model.vcxproj -> C:\Users\miker\Desktop\ARL Workshop\Kinematic Bicycle Model\x64\Debug\Kinematic Bicycle Model.exe
